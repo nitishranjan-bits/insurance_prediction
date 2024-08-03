@@ -1,0 +1,5 @@
+[core]
+    autostage = true
+    remote = s3_ml_data_storage
+['remote "s3_ml_data_storage"']
+    url = s3://product-suggestion/s3_ml_data_storage
