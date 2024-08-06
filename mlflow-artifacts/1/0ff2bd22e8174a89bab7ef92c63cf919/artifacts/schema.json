@@ -1,1 +1,0 @@
-{"age": "float64", "bmi": "float64", "children": "float64", "sex_female": "float64", "sex_male": "float64", "smoker_no": "float64", "smoker_yes": "float64", "region_northeast": "float64", "region_northwest": "float64", "region_southeast": "float64", "region_southwest": "float64"}

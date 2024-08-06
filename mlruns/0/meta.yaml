@@ -1,6 +1,6 @@
-artifact_location: file:///home/nitish/Documents/BITS/Semester-3/MLOps/Assignment-1/Assigment-2/insurance_prediction/mlruns/0
-creation_time: 1722648608118
+artifact_location: mlflow-artifacts:/0
+creation_time: 1722695894200
 experiment_id: '0'
-last_update_time: 1722648608118
+last_update_time: 1722695894200
 lifecycle_stage: active
 name: Default

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1722695986807
+current_stage: None
+description: ''
+last_updated_timestamp: 1722695986807
+name: insurance_prediction_model
+run_id: 6f9860443a2145d6bacbdc483675cdb8
+run_link: ''
+source: mlflow-artifacts:/557112626913085485/6f9860443a2145d6bacbdc483675cdb8/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/557112626913085485/6f9860443a2145d6bacbdc483675cdb8/artifacts/model
+user_id: null
+version: 1
